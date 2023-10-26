@@ -2,20 +2,48 @@
     "alunos": [
         {
             "id": "1",
+            "contrato": "1",
             "nome": "Aluno 1",
             "cpf": "111111111",
+            "email": "aluno1@email.com",
+            "celular": "123451234",
+            "logradouro": "Rua Fulano de tal",
+            "numero": "111",
+            "complemento": "casa 1",
+            "bairro": "bairro 1",
+            "cidade": "cidade 1",
+            "uf": "mg1",
+            "cep": "3600000",
             "contrato": 1
         },
         {
             "id": "2",
             "nome": "Aluno 2",
             "cpf": "222222222",
+            "email": "aluno2@email.com",
+            "celular": "123451234",
+            "logradouro": "Rua Fulano de tal",
+            "numero": "222",
+            "complemento": "casa 2",
+            "bairro": "bairro 2",
+            "cidade": "cidade 2",
+            "uf": "mg2",
+            "cep": "3600000",
             "contrato": 2
         },
         {
             "id": "3",
             "nome": "Aluno 3",
             "cpf": "33333333333",
+            "email": "aluno3@email.com",
+            "celular": "123451234",
+            "logradouro": "Rua Fulano de tal",
+            "numero": "333",
+            "complemento": "casa 3",
+            "bairro": "bairro3",
+            "cidade": "Juiz de fora",
+            "uf": "mg",
+            "cep": "3600000",
             "contrato": 3
         }
     ],
@@ -23,17 +51,47 @@
         {
             "id": "1",
             "nome": "instrutor1",
-            "cpf": "111111111"
+            "cpf": "111111111",
+            "email": "1@email.com",
+            "celular": "123451234",
+            "logradouro": "Rua Fulano de tal",
+            "numero": "111",
+            "complemento": "casa 1",
+            "bairro": "bairro1",
+            "cidade": "Juiz de fora",
+            "uf": "mg",
+            "cep": "3600000",
+            "CLT": "17033259504"
         },
         {
             "id": "2",
             "nome": "instrutor2",
-            "cpf": "22222222222"
+            "cpf": "22222222222",
+            "email": "1@email.com",
+            "celular": "123451234",
+            "logradouro": "Rua Fulano de tal",
+            "numero": "111",
+            "complemento": "casa 1",
+            "bairro": "bairro1",
+            "cidade": "Juiz de fora",
+            "uf": "mg",
+            "cep": "3600000",
+            "CLT": "17033259504"
         },
         {
             "id": "3",
             "nome": "instrutor3",
-            "cpf": "33333333333"
+            "cpf": "33333333333",
+            "email": "1@email.com",
+            "celular": "123451234",
+            "logradouro": "Rua Fulano de tal",
+            "numero": "111",
+            "complemento": "casa 1",
+            "bairro": "bairro1",
+            "cidade": "Juiz de fora",
+            "uf": "mg",
+            "cep": "3600000",
+            "CLT": "17033259504"
         }
     ],
     "veiculos": [
@@ -59,18 +117,18 @@
     "simulados": [
         {
             "id": "1",
-            "data": "xx-xx-xxxx",
-            "hora": "xx:xx"
+            "data": "11-11-20111",
+            "hora": "11:11"
         },
         {
             "id": "2",
-            "data": "xx-xx-xxxx",
-            "hora": "xx:xx"
+            "data": "22-12-2022",
+            "hora": "22:22"
         },
         {
             "id": "3",
-            "data": "xx-xx-xxxx",
-            "hora": "xx:xx"
+            "data": "30-03-2023",
+            "hora": "13:33"
         }
     ]
 }
