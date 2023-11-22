@@ -117,17 +117,17 @@
     {
       "id": 1,
       "dataSimulado": "11-11-2011",
-      "hora": "11:11"
+      "horarioSimulado": "11:11"
     },
     {
       "id": 2,
       "dataSimulado": "22-12-2022",
-      "hora": "22:22"
+      "horarioSimulado": "22:22"
     },
     {
       "id": 3,
       "dataSimulado": "30-03-2023",
-      "hora": "13:33"
+      "horarioSimulado": "13:33"
     }
   ]
 }
