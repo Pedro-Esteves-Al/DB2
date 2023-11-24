@@ -98,19 +98,22 @@
       "id": 1,
       "categoria": 1,
       "modelo": "yamaha falcon",
-      "placa": "111111111"
+      "placa": "111111111",
+      "instrutor": 1
     },
     {
       "id": 2,
       "categoria": 2,
       "modelo": "celta",
-      "placa": "22222222"
+      "placa": "22222222",
+      "instrutor": 2
     },
     {
       "id": 3,
       "categoria": 3,
       "modelo": "onibus",
-      "placa": "333333333"
+      "placa": "333333333",
+      "instrutor": 3
     }
   ],
   "simulados": [
