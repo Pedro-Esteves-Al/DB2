@@ -96,19 +96,19 @@
   "veiculos": [
     {
       "id": 1,
-      "categoria": "A",
+      "categoria": 1,
       "modelo": "yamaha falcon",
       "placa": "111111111"
     },
     {
       "id": 2,
-      "categoria": "B",
+      "categoria": 2,
       "modelo": "celta",
       "placa": "22222222"
     },
     {
       "id": 3,
-      "categoria": "C",
+      "categoria": 3,
       "modelo": "onibus",
       "placa": "333333333"
     }
