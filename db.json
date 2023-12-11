@@ -3,6 +3,8 @@
     {
       "id": 1,
       "contrato": "1",
+      "dataInicioContrato": "11-11-2011",
+      "dataFimContrato": "11-11-2012",
       "nome": "Aluno 1",
       "cpf": "111111111",
       "email": "aluno1@email.com",
