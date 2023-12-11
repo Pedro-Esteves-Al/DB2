@@ -20,6 +20,8 @@
     {
       "id": 2,
       "contrato": "2",
+      "dataInicioContrato": "11-11-2011",
+      "dataFimContrato": "11-11-2012",
       "nome": "Aluno 2",
       "cpf": "222222222",
       "email": "aluno2@email.com",
@@ -35,6 +37,8 @@
     {
       "id": 3,
       "contrato": "3",
+      "dataInicioContrato": "11-11-2011",
+      "dataFimContrato": "11-11-2012",
       "nome": "Aluno 3",
       "cpf": "33333333333",
       "email": "aluno3@email.com",
