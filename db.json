@@ -15,7 +15,8 @@
       "bairro": "bairro 1",
       "cidade": "cidade 1",
       "uf": "mg1",
-      "cep": "3600000"
+      "cep": "3600000",
+      "cnh": "1111111"
     },
     {
       "id": 2,
@@ -32,7 +33,8 @@
       "bairro": "bairro 2",
       "cidade": "cidade 2",
       "uf": "mg2",
-      "cep": "3600000"
+      "cep": "3600000",
+      "cnh": "2222222"
     },
     {
       "id": 3,
@@ -49,7 +51,8 @@
       "bairro": "bairro3",
       "cidade": "Juiz de fora",
       "uf": "mg",
-      "cep": "3600000"
+      "cep": "3600000",
+      "cnh": "222222"
     }
   ],
   "instrutores": [
@@ -66,7 +69,8 @@
       "cidade": "Juiz de fora",
       "uf": "mg",
       "cep": "3600000",
-      "clt": "17033259504"
+      "clt": "17033259504",
+      "cnh": "1111111"
     },
     {
       "id": 2,
@@ -81,7 +85,8 @@
       "cidade": "Juiz de fora",
       "uf": "mg",
       "cep": "3600000",
-      "clt": "17033259504"
+      "clt": "17033259504",
+      "cnh": "1111111"
     },
     {
       "id": 3,
@@ -96,7 +101,8 @@
       "cidade": "Juiz de fora",
       "uf": "mg",
       "cep": "3600000",
-      "clt": "17033259504"
+      "clt": "17033259504",
+      "cnh": "1111111"
     }
   ],
   "veiculos": [
